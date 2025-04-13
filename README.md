@@ -17,14 +17,15 @@ I’m a passionate senior student who crafts elegant solutions from HTML to low�
 ---
 
 ## 🧰 Tech Stack
-
+## Languages & Frameworks
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" height="30" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="30 />
-  <!-- Tools & Frameworks -->
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white" alt="LLVM" height="30" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="30" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="30" />
@@ -42,14 +43,26 @@ I’m a passionate senior student who crafts elegant solutions from HTML to low�
   <a href="https://github.com/simichanga/linear-algebra-libcpp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=linear-algebra-libcpp&theme=tokyonight" alt="linear-algebra-libcpp"/>
   </a>
+  <a href="https://github.com/simichanga/LightDiffraction" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=LightDiffraction&theme=tokyonight" alt="linear-algebra-libcpp"/>
+  </a>
+  <a href="https://github.com/simichanga/n-body-simulator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=n-body-simulator&theme=tokyonight" alt="linear-algebra-libcpp"/>
+  </a>
+  <a href="https://github.com/simichanga/brainfuck-translator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=brainfuck-translator&theme=tokyonight" alt="linear-algebra-libcpp"/>
+  </a>
+  <a href="https://github.com/simichanga/transport-problem" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=transport-problem&theme=tokyonight" alt="linear-algebra-libcpp"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simichanga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p align="left">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simichanga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -74,8 +87,6 @@ I’m a passionate senior student who crafts elegant solutions from HTML to low�
 
 ---
 
-*Tip: Optimize regularly—every commit, every project, every badge incrementally builds the profile of a future god of code!*
+*Tip: Optimize regularly—every commit, every project, every badge incrementally builds the profile and character*
   
 ---
-
-Happy coding, and may your contributions be legendary!
