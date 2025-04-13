@@ -1,9 +1,3 @@
-<!-- Animated Banner: Try adjusting the parameters or use your own hosted banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Alexandru%20Siminischi&animation=fadeIn&type=waving&color=gradient&height=150" alt="Alexandru's Banner"/>
-</p>
-
-# 👑 Hi, I'm Alexandru Siminischi (simichanga)
 ### Senior CS Student | Fullstack & Systems Enthusiast | AI & Data Science Explorer  
 <p align="center">
   <a href="https://www.linkedin.com/in/siminischiasebastian" target="_blank">
