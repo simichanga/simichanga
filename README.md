@@ -30,7 +30,7 @@ No buzzwords. No vanity. Just engineering that scales.
 
 ---
 
-## Highlighted Projects (pin these)
+## Highlighted Projects
 
 * **similang-py** — toy language + interpreter/compiler experiments. Good entry point for my language/VM work.
 * **linear-algebra-libcpp** — high-performance linear algebra primitives in modern C++ (small, tested, performance-minded).
