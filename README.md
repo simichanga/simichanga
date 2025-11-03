@@ -1,92 +1,74 @@
-### Senior CS Student | Fullstack & Systems Enthusiast | AI & Data Science Explorer  
+# Simi — Software Engineer · Fullstack & Systems · Backend, APIs, Databases
+
 <p align="center">
   <a href="https://www.linkedin.com/in/siminischiasebastian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:siminischi1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-siminischi1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-## 🚀 About Me
-
-I’m a passionate senior student who crafts elegant solutions from HTML to low‐level C++ and AI algorithms. I don’t just code—I forge systems and create experiences that stand out. Whether it’s developing a custom virtual machine or experimenting with neural networks, I continuously push boundaries with curiosity, discipline, and a touch of artistry.
-
-> "I code not only to solve problems, but to elevate the craft to art." 
-
----
-
-## 🧰 Tech Stack
-## Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" height="30" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="30 />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white" alt="LLVM" height="30" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="30" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="30" />
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" height="30" />
+</a>
 </p>
 
 ---
 
-## 📌 Projects I Admire & Create
+## TL;DR
 
-<p align="center">
-  <a href="https://github.com/simichanga/similang-py" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=similang-py&theme=tokyonight" alt="similang-py"/>
-  </a>
-  <a href="https://github.com/simichanga/linear-algebra-libcpp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=linear-algebra-libcpp&theme=tokyonight" alt="linear-algebra-libcpp"/>
-  </a>
-  <a href="https://github.com/simichanga/LightDiffraction" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=LightDiffraction&theme=tokyonight" alt="linear-algebra-libcpp"/>
-  </a>
-  <a href="https://github.com/simichanga/n-body-simulator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=n-body-simulator&theme=tokyonight" alt="linear-algebra-libcpp"/>
-  </a>
-  <a href="https://github.com/simichanga/brainfuck-translator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=brainfuck-translator&theme=tokyonight" alt="linear-algebra-libcpp"/>
-  </a>
-  <a href="https://github.com/simichanga/transport-problem" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simichanga&repo=transport-problem&theme=tokyonight" alt="linear-algebra-libcpp"/>
-  </a>
-</p>
+Build fast, reliable systems. Ship predictable APIs. Optimize compilers and low-level code. I work across the stack — from C++ performance kernels and VM/compiler experiments to backend services, databases and production APIs.
+
+No buzzwords. No vanity. Just engineering that scales.
 
 ---
 
-## 📊 GitHub Stats
+## What I build
 
-<p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simichanga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 Goals & Aspirations
-
-- **Evolve my compiler and VM projects** with modern C++ features and cutting-edge optimizations.
-- **Deep-dive into AI & Data Science**—experimenting with neural networks and data-driven algorithms.
-- **Craft unique fullstack applications** that merge aesthetics and performance.
-- **Keep expanding my knowledge** through open-source contributions and hackathon challenges.
-- **Inspire others** by sharing my journey and mentoring junior developers.
+* **Robust backends & APIs** — production-grade, observable, and dependable.
+* **Databases & performance** — schema design, indexing, query tuning, migrations.
+* **Systems & tooling** — compilers, VMs, and performance-critical C++ components.
+* **Fullstack products** — wire up polished frontends to reliable backends when needed.
 
 ---
 
-## ✨ Fun Facts & Personal Tidbits
+## Skills & Tools
 
-- 💡 I’m obsessed with solving puzzles in both code and life.
-- 🏋️‍♂️ Balancing my love for coding with a passion for bodybuilding and fitness.
-- 🎮 I often unwind by revisiting retro games and drawing inspiration from their design.
-- 🎙 I enjoy collaborating on projects that intertwine art and technology.
+**Languages:** C++ · Python · JavaScript/TypeScript · Go · Java (legacy systems)
+
+**Web & Services:** Node.js · Express · REST · GraphQL · gRPC · Docker · Kubernetes (basics)
+
+**DB & Infra:** PostgreSQL · Redis · Informix (experience) · SQL tuning · Migrations
+
+**Systems & Low level:** LLVM · Compiler toolchains · Memory & cache-aware code · Profiling (perf, valgrind)
+
+**ML / Data:** PyTorch/TensorFlow basics · data pipelines · experimentation
 
 ---
 
-*Tip: Optimize regularly—every commit, every project, every badge incrementally builds the profile and character*
-  
+## Highlighted Projects (pin these)
+
+* **similang-py** — toy language + interpreter/compiler experiments. Good entry point for my language/VM work.
+* **linear-algebra-libcpp** — high-performance linear algebra primitives in modern C++ (small, tested, performance-minded).
+* **n-body-simulator** — physics simulation showcasing accuracy and parallel performance.
+* **LightDiffraction** — optics simulation with numerical methods and visualization.
+* **brainfuck-translator** — compact translator and tooling; demonstrates compiler/translator chops.
+* **transport-problem** — algorithmic implementations and optimization work.
+
 ---
+
+## Run quick demos
+
+```bash
+# similang-py
+python -m venv .venv && source .venv/bin/activate
+pip install llvmlite
+python -m similang repl
+
+# linear-algebra-libcpp (example)
+mkdir build && cd build
+cmake .. && cmake --build . -- -j
+./tests/run_tests
+```
+
+* **Email:** [siminischi1234@gmail.com](mailto:siminischi1234@gmail.com)
+
+Currently empoyed, open on contracting for: compiler/systems experiments, mentoring, short collaborations on performance-critical code.
+
+<!-- updated: 0000-00-00T00:00:00Z -->
