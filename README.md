@@ -1,5 +1,4 @@
 # Simi — Software Engineer · Fullstack & Systems · Backend, APIs, Databases
-
 ## TL;DR
 
 Build fast, reliable systems. Ship predictable APIs. Optimize compilers and low-level code. I work across the stack — from C++ performance kernels and VM/compiler experiments to backend services, databases and production APIs.
