@@ -1,7 +1,7 @@
-# Simi — Software Engineer · Fullstack & Systems · Backend, APIs, Databases
+# Simi - Software Engineer · Fullstack & Systems · Backend, APIs, Databases
 ## TL;DR
 
-Build fast, reliable systems. Ship predictable APIs. Optimize compilers and low-level code. I work across the stack — from C++ performance kernels and VM/compiler experiments to backend services, databases and production APIs.
+Build fast, reliable systems. Ship predictable APIs. Optimize compilers and low-level code. I work across the stack - from C++ performance kernels and VM/compiler experiments to backend services, databases and production APIs.
 
 No buzzwords. No vanity. Just engineering that scales.
 
@@ -9,10 +9,10 @@ No buzzwords. No vanity. Just engineering that scales.
 
 ## What I build
 
-* **Robust backends & APIs** — production-grade, observable, and dependable.
-* **Databases & performance** — schema design, indexing, query tuning, migrations.
-* **Systems & tooling** — compilers, VMs, and performance-critical C++ components.
-* **Fullstack products** — wire up polished frontends to reliable backends when needed.
+* **Robust backends & APIs** - production-grade, observable, and dependable.
+* **Databases & performance** - schema design, indexing, query tuning, migrations.
+* **Systems & tooling** - compilers, VMs, and performance-critical C++ components.
+* **Fullstack products** - wire up polished frontends to reliable backends when needed.
 
 ---
 
@@ -32,12 +32,12 @@ No buzzwords. No vanity. Just engineering that scales.
 
 ## Highlighted Projects
 
-* **similang-py** — toy language + interpreter/compiler experiments. Good entry point for my language/VM work.
-* **linear-algebra-libcpp** — high-performance linear algebra primitives in modern C++ (small, tested, performance-minded).
-* **n-body-simulator** — physics simulation showcasing accuracy and parallel performance.
-* **LightDiffraction** — optics simulation with numerical methods and visualization.
-* **brainfuck-translator** — compact translator and tooling; demonstrates compiler/translator chops.
-* **transport-problem** — algorithmic implementations and optimization work.
+* **similang-py** - toy language + interpreter/compiler experiments. Good entry point for my language/VM work.
+* **linear-algebra-libcpp** - high-performance linear algebra primitives in modern C++ (small, tested, performance-minded).
+* **n-body-simulator** - physics simulation showcasing accuracy and parallel performance.
+* **LightDiffraction** - optics simulation with numerical methods and visualization.
+* **brainfuck-translator** - compact translator and tooling; demonstrates compiler/translator chops.
+* **transport-problem** - algorithmic implementations and optimization work.
 
 ---
 
