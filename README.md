@@ -1,16 +1,5 @@
 # Simi — Software Engineer · Fullstack & Systems · Backend, APIs, Databases
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/siminischiasebastian" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:siminischi1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-siminischi1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
----
-
 ## TL;DR
 
 Build fast, reliable systems. Ship predictable APIs. Optimize compilers and low-level code. I work across the stack — from C++ performance kernels and VM/compiler experiments to backend services, databases and production APIs.
